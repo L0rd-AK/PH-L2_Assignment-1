@@ -190,5 +190,4 @@ login(currentUser);
 ---
 
 ## Conclusion
-
 Union and intersection types are powerful tools in TypeScript. They help you design flexible, type-safe code that’s easy to maintain. Start using them to make your TypeScript projects more robust and expressive!
